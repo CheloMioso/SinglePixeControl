@@ -8,5 +8,6 @@
 <p>И сценарий изменения яркости каждого канала по очереди и всеми каналами сразу, после нажатия на кнопку «Sequential test». </p>
 <p>Остановить постоянную передачу сигнала управления можно нажатием на соответствующую кнопку «Stop». </p>
 <p>"Single Pixel Control" не требует установки на PC и в папке bin/Release уже есть собранный проект «Single Pixel Control.exe». </p>
+<p>Проект написан на C# .NET Framework 4.5</p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">лицензии Creative Commons С указанием авторства-С сохранением условий 4.0 Всемирная</a>.
