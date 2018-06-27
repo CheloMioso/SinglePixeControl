@@ -1,4 +1,4 @@
-# Single_Pixel_Control
+# Single Pixel Control
 <p>"Single Pixel Control" is designed to control one DMX-512 luminaire, which has 4 colors and connected to the PC on the COM port.</p>
 <p>C# .NET Framework 4.5</p>
 
